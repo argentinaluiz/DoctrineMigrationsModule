@@ -1,5 +1,5 @@
 {
-    "name": "argentinaluiz/doctrine-migrations-module",
+    "name": "murganikolay/doctrine-migrations-module",
     "description": "Doctrine migrations module for Zend Framework 2",
     "homepage": "https://github.com/MurgaNikolay/DoctrineMigrationsModule",
     "type": "library",
